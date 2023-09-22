@@ -1,5 +1,12 @@
 import './App.css';
 import dayCloudsRain from '../src/assets/day-clouds-rain2.png'
+import snow from './assets/snow.png'
+import nightThunderstorms from './assets/night-thunderstorms.png'
+import dayThunderStorms from './assets/daythunderstorms.png'
+import dayHaze from './assets/sunny-haze.png'
+import sunnyDay from './assets/sunny-day.png'
+
+
 
 
 
